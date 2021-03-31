@@ -18,19 +18,17 @@
 
 |10Hz|100Hz|500hz|
 |-----|-----|-----|
-||||
-
+|![](https://github.com/Yu-Hsuan-Chen/hw2/blob/master/10hz/before_filter.png)|![](https://github.com/Yu-Hsuan-Chen/hw2/blob/master/100hz/before_filter.png)|![](https://github.com/Yu-Hsuan-Chen/hw2/blob/master/500hz/before_filter.png)|
 ## Waveform after filter
 
 |10Hz|100Hz|500hz|
 |-----|-----|-----|
-||||
-
+|![](https://github.com/Yu-Hsuan-Chen/hw2/blob/master/10hz/after_filter.png)|![](https://github.com/Yu-Hsuan-Chen/hw2/blob/master/100hz/after_filter.png)|![](https://github.com/Yu-Hsuan-Chen/hw2/blob/master/500hz/after_filter.png)|
 
 ## Spectrum
 |10Hz|400Hz|500hz|
 |-----|-----|-----|
-||||
+|![](https://github.com/Yu-Hsuan-Chen/hw2/blob/master/10hz/Figure_1.png)|![](https://github.com/Yu-Hsuan-Chen/hw2/blob/master/100hz/Figure_1.png)|![](https://github.com/Yu-Hsuan-Chen/hw2/blob/master/500hz/Figure_1.png)|
 
 
 
